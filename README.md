@@ -1,2 +1,3 @@
 # ai-capstone-project
-AI capstone &amp; applied learning summary
+Applied AI capstone and learning artifacts (high-level, non-code)
+
